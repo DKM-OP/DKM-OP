@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DKM-OP
-- 👀 I’m interested in: Python3 and Machine Learning
-- 🌱 I’m currently learning: JavaScript 
-- 📫 How to reach me: DM
+- 👋 Hi, ich bin @DKM-OP
+- 👀 Ich interessiere mich für: Python3, Machine Learning und C
+- 🌱 Grad lerne ich: Assembly
+- 📫 So kann mann mich erreichen: DM
 
 <!---
 DKM-OP/DKM-OP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
