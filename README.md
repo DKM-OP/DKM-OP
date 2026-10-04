@@ -1,6 +1,6 @@
 - 👋 Hi, ich bin @DKM-OP
 - 👀 Ich interessiere mich für: Python3, Machine Learning und C
-- 🌱 Grad lerne ich: Assembly
+- 🌱 Grad lerne ich: C#
 - 📫 So kann mann mich erreichen: DM
 
 <!---
